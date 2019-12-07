@@ -1,0 +1,19 @@
+{
+    "name": "codesinging/think-command",
+    "description": "An extended ThinkPHP Command class.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "codesinging",
+            "email": "codesinging@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CodeSinging\\ThinkCommand\\": "src"
+        }
+    }
+}
